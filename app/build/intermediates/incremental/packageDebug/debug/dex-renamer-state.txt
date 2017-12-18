@@ -1,0 +1,7 @@
+#Sun Dec 17 22:16:06 CET 2017
+base.0=/home/amrine/Musique/PocLogin/app/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/amrine/Musique/PocLogin/app/build/intermediates/transforms/dexMerger/debug/0

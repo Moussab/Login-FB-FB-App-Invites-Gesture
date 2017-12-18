@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PocLogin</string>
+
+    <string name="facebook_app_id">142069989787012</string>
+    <string name="fb_login_protocol_scheme">fb142069989787012</string>
+
+    <string name="enter_new_name">Enter new name:</string>
+    <string name="save">Save</string>
+    <string name="invalid_name">Enter valid name</string>
+    <string name="cancel">Cancel</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="no_gesture">Please draw gesture first!</string>
+    <string name="enter_name">Enter Name:</string>
+    <string name="gesture_saved"> saved successfully to : </string>
+    <string name="save_gesture">Save Gesture</string>
+    <string name="draw_a_gesture">Draw a gesture, I will try to recognize!</string>
+
+</resources>

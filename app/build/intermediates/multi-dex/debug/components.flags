@@ -1,0 +1,75 @@
+-injars /root/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/59228ad54fea01aa6c8b63fcc70cf932/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c48d9a94c56212ca977ae40b3a830ffe/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.29.0.aar/7ae4b81998e8e05be719291c26f19d92/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/facebook-login-4.29.0.aar/8e3bf4fd920f85094c812da9766bb875/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/facebook-share-4.29.0.aar/8e4a32312da58ad0cba2dd774b4f326e/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/facebook-common-4.29.0.aar/8101f21aebb5954ea2b068e93268eb11/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.1.aar/e8db1156e2af7ef4033b4fc9e6125e22/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/4550272ffedfcba28821a6900d05cd9f/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.1.aar/4ab4de9766d41a0398a07a9e703a5d09/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/9b0895085f5be25a204461dd9da251ee/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0bf00de24005fd205ac498e26d1dac52/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/facebook-places-4.29.0.aar/1d4563d4148f2383dcc49d76a5e7da50/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.29.0.aar/6d2043879ee0feafcaa79c56ae48365d/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.29.0.aar/ea6c8d509c61460500e95036d5e40342/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/facebook-core-4.29.0.aar/c84f5ad22bf1cc0b04420213d33e0fdd/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.1.aar/4d6e6c23e2c40ab01738ee9b32c50dae/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.1.aar/ab8c361840edf303db29242401f80b7e/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.1.aar/8523457152e1a47b01a5ed795bbe665e/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.1.aar/e048a9f31fccbb6ff30e9e77186f6c45/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.1.aar/7835a3c55b146822e5e5f50c36cd97d5/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.1.aar/1f759ac574eb9306d1d1d947cc7e098d/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.1.aar/28c1adf46b699afa616ccc811553c617/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.1.aar/d89c89e56a5deab9a71ac154aa3b2f57/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.1.aar/7147eccfb0620262417407dbe2c0f33d/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.1/287742f1c6cea6d9126670e9f031890b0462362a/support-annotations-27.0.1.jar(**.class)
+-injars /root/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar(**.class)
+-injars /root/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ed2eb89ed9f900fb50b2b8e1e21dbe4c/jars/classes.jar(**.class)
+-injars /root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.4.0/cc174c559b5177982887bf6e1b76003aebad9516/bolts-android-1.4.0.jar(**.class)
+-injars /root/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar(**.class)
+-injars /root/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar(**.class)
+-injars /root/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar(**.class)
+-injars /root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar(**.class)
+-injars /root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar(**.class)
+-injars /home/amrine/Musique/PocLogin/app/build/intermediates/classes/debug(**.class)
+-outjars /home/amrine/Musique/PocLogin/app/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /root/Android/Sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /home/amrine/Musique/PocLogin/app/build/intermediates/multi-dex/debug/components.flags
+
+
+# Referenced at /home/amrine/Musique/PocLogin/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:13
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

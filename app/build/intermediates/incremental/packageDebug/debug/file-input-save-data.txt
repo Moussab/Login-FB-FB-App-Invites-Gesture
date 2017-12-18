@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Dec 17 22:16:06 CET 2017
+1.base=/home/amrine/Musique/PocLogin/app/build/intermediates/transforms/dexMerger/debug/0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/home/amrine/Musique/PocLogin/app/build/intermediates/transforms/dexMerger/debug/0
+1.path=classes2.dex
